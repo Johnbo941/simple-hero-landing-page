@@ -14,12 +14,12 @@ const Index = () => {
         </div>
         
         {/* Headline */}
-        <h1 className="text-5xl font-bold mb-4 text-foreground">
+        <h1 className="text-5xl font-bold mb-4 text-foreground font-serif">
           Osang Miracle
         </h1>
         
         {/* Subtitle */}
-        <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
+        <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto font-serif">
           Beginner web developer passionate about creating amazing digital experiences. 
           Currently learning and building projects to grow my skills in modern web technologies.
         </p>
